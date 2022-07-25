@@ -1,1 +1,1 @@
-# AramaMotoru
+# Bilişim Sözlüğü
